@@ -9,7 +9,8 @@
 # http://paulsbruce.io/blog/2017/01/installing-android-sdk-in-docker/
 #######################################################################
 
-FROM dockerhub.hi.inet/dcip/minimal:ubuntu16.04
+#FROM dockerhub.hi.inet/dcip/minimal:ubuntu16.04
+FROM dcip/minimal:6
 
 MAINTAINER Luis Pulido <luis.pulido@gmail.com>
 
